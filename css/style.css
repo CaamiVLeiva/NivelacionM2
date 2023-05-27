@@ -43,7 +43,7 @@ aside p a{
 
 .container{
     max-width: 800px;
-    margin: 150px;
+    margin: auto;
 }
 
 .color{
@@ -69,4 +69,13 @@ aside p a{
 .container h6{
     font-family: 'Anton', sans-serif;
     padding: 10px;
+}
+
+img{
+    
+}
+
+footer{
+    background-color:#f1f1f1;
+    color: #25323b;
 }
